@@ -1,4 +1,4 @@
-# 汉明码(Hamming Code)生成工具
+# 汉明码计算器 Hamming Code Calculator
 
 ## 功能列表
 
